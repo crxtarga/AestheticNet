@@ -46,8 +46,8 @@ Additionaly to this README the paper cited below gives detailed information abou
 ![Dataset Overview](img/Dataset.png)
 
 You can request the full dataset including its annotations via Mail from: 
-* Prof. Dr. rer. nat. XXXXXXXXX
-* XXXXXXXXXXX
+* Prof. Dr. rer. nat. XXXXXXXXXX
+* XXXXXXXXXXXX
 
 ## Requirements:
 Tested with Python 3.6, matplotlib==3.2.2, numpy==1.19.0, Pillow==7.1.2, PyQt5==5.15.0
