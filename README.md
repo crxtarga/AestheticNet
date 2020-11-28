@@ -20,9 +20,9 @@ to determine the influence of the biased view of annotators on aesthetics of per
 Additionaly to this README the paper cited below gives detailed information about the toolbox and the dataset.  	
 
 ## Wiki Index:
-* [Installation Guide](../../wiki/Installation-Guide/)
-* [List of Abbrevations](../../wiki/List-of-Abbreviations-and-Acronyms/)
-* [Formulas](../../wiki/Formula/)
+* **[Installation Guide](../../wiki/Installation-Guide/)**
+* **[List of Abbrevations](../../wiki/List-of-Abbreviations-and-Acronyms/)**
+* **[Formulas](../../wiki/Formula/)**
 
 ## Toolbox
 ![Aesthetic Faces Toolbox](img/aesthetic_toolbox.png)
