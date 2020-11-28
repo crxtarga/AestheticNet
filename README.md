@@ -22,7 +22,7 @@ Additionaly to this README the paper cited below gives detailed information abou
 ## Wiki Index:
 * [Installation Guide](../../wiki/Installation-Guide/)
 * [List of Abbrevations](../../wiki/List-of-Abbreviations-and-Acronyms/)
-* [Formulas](../../wiki/Formulas/)
+* [Formulas](../../wiki/Formula/)
 
 ## Toolbox
 ![Aesthetic Faces Toolbox](img/aesthetic_toolbox.png)
