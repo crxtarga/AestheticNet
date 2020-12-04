@@ -31,7 +31,7 @@ Our results are displayed in the chart, as all bar charts have a similar height,
 The equalization of distribution of the training data is done with a factor based approach. 
 First, the ratio between the annotated portraits of Asian and European was calculated. 
 Secondly, the factor for equalized distribution was calculated in a stochastic approach.
-In the current example a factor of XXX is used.
+In the current example a factor of 1.9 is used (Asian * 1.9).
 
 
 ## Toolbox
