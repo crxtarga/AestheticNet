@@ -27,7 +27,7 @@ Additionaly to this README the paper cited below gives detailed information abou
 ## Less biased A.I. in facial beauty prediction
 The first, preliminary, less biased A.I. in facial beauty prediction. 
 Our results are displayed in the chart, as all bar charts have a similar height, the FBP is considerably less biased.
-
+![Less biased A.I. annotations](img/less_biased_output.png)
 The equalization of distribution of the training data is done with a factor based approach. 
 First, the ratio between the annotated portraits of Asian and European was calculated. 
 Secondly, the factor for equalized distribution was calculated in a stochastic approach.
